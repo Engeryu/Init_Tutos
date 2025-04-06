@@ -13,7 +13,7 @@ If you don't know what `gh` is or can't execute it, check [🧰Git &amp; GitHub 
 ## 🆕 Repository Creation (If you didn't create folder yet):
 
 * `gh repo create repository_name --visibility --clone`
-  (Replace `--visibility` with `private` or `public`)
+  (Replace `--visibility` with `--private` or `--public`)
 * Then you can go into the newly created folder and follow instructions!
 
 ---
