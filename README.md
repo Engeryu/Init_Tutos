@@ -16,7 +16,7 @@ Whether you're setting up your environment, managing GitHub repositories, learni
 
 ### 🔧 Git & GitHub
 
-- [Git &amp; GitHub Initialization Guide](./Git_Github/github_git_init.md)
+- [Git &amp; GitHub Initialization Guide](./Git_GitHub/github_git_init.md)
 - [GitHub CLI Repository Management](./Git_GitHub/github_cli_repo_init.md)
 - [Git Commands &amp; Workflow Basics](./Git_GitHub/github_cli_repo_managment.md)
 
