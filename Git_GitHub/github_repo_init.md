@@ -14,6 +14,7 @@ If you don't know what `gh` is or can't execute it, check [🧰Git &amp; GitHub 
 
 * `gh repo create repository_name --visibility --clone`
   (Replace `--visibility` with `private` or `public`)
+* Then you can go into the newly created folder and follow instructions!
 
 ---
 
@@ -22,7 +23,7 @@ If you don't know what `gh` is or can't execute it, check [🧰Git &amp; GitHub 
 ```bash
 git init -b main
 git add .
-gh repo create repository_name --visibility
+gh repo create repository_name --visibility # Don't need to do that if you did the last step `Repository Creation`
 git commit -m "Your comments"
 git remote add origin git@github.com:Username/repo_name.git
 git push -u origin main
