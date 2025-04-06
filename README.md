@@ -14,7 +14,7 @@ Whether you're setting up your environment, managing GitHub repositories, learni
 - [Development Tools Installation (Linux, Windows, Mac)](./env_setup.md)
 - [WSL Setup Guide](./wsl_setup.md)
 
-### 🔧 Git & GitHub
+### 🔧 [Git &amp; GitHub]()
 
 - [Git &amp; GitHub Initialization Guide](./Git_GitHub/github_git_init.md)
 - [GitHub CLI Repository Management](./Git_GitHub/github_repo_init.md)
