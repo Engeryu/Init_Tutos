@@ -1,6 +1,6 @@
-# 🛠️ GitHub CLI Repository Initialization:
+# 🛠️ GitHub CLI Repository Initialization
 
-If you don't know what `gh` is or can't execute it, check [README.md]()!
+If you don't know what `gh` is or can't execute it, check [🧰Git &amp; GitHub Initialization Guide](./github_git_init.md)!
 
 ---
 
@@ -10,18 +10,19 @@ If you don't know what `gh` is or can't execute it, check [README.md]()!
 
 ---
 
-## 🆕 Repository Creation (from the root of your project folder):
+## 🆕 Repository Creation (If you didn't create folder yet):
 
 * `gh repo create repository_name --visibility --clone`
   (Replace `--visibility` with `private` or `public`)
 
 ---
 
-## 🔁 Link Local Project to Remote (from the root of your project folder):
+## 🔁 Create and Link Local Project to Remote (from the root of your project folder):
 
 ```bash
 git init -b main
 git add .
+gh repo create repository_name --visibility
 git commit -m "Your comments"
 git remote add origin git@github.com:Username/repo_name.git
 git push -u origin main
@@ -38,4 +39,8 @@ git push -u origin main
 ## ✅ All Set!
 
 You just created your first repository without opening GitHub.com—well done!
-You can read [README.md]() to learn how to manage your repositories directly from your local machine!
+You can read the [GitHub CLI Repository Management](./github_repo_managment.md) to learn how to manage your repositories directly from your local machine!
+
+**📚 PS:** If you want to deepen your knowledge of Git and GitHub configuration, here are the links to the [Git Documentation](https://git-scm.com/docs), the [GitHub-CLI Documentation](https://cli.github.com/manual/), and the [GitHub Documentation](https://docs.github.com/en).
+
+🚀 Feel free to check other [guides](../README.md) to learn more technos!
