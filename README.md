@@ -20,20 +20,10 @@ Whether you're setting up your environment, managing GitHub repositories, learni
 - [GitHub CLI Repository Management](./Git_GitHub/github_cli_repo_init.md)
 - [Git Commands &amp; Workflow Basics](./Git_GitHub/github_cli_repo_managment.md)
 
-### 🐳 Docker & Containers
-
-- [Docker Basics &amp; Setup Guide](./docker_setup.md)
-- [Working with Docker Images &amp; Containers](./docker_workflow.md)
-
 ### 🐍 Python & Conda
 
 - [Miniconda Installation &amp; Python Environment Setup](./python_conda_setup.md)
 - [Managing Python Packages](./python_packages.md)
-
-### ☁️ Cloud & Deployment
-
-- [Deploying with AWS CLI](./aws_cli_setup.md)
-- [Using GCP SDK](./gcp_sdk_setup.md)
 
 ---
 
