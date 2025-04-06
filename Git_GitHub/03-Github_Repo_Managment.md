@@ -2,8 +2,8 @@
 
 ## 📁 Repository Prerequisite:
 
-If you didn't set up your Git and GitHub environment locally, read [🧰Git &amp; GitHub Initialization Guide](./github_git_init.md)!
-If you don't have any repository on GitHub, read [🛠️ GitHub CLI Repository Initialization](./github_repo_init.md)!
+If you didn't set up your Git and GitHub environment locally, read [🧰Git &amp; GitHub Initialization Guide](./01-Github_Git_Init.md)!
+If you don't have any repository on GitHub, read [🛠️ GitHub CLI Repository Initialization](./02-Github_Repo_Init.md)!
 If you don't have any repository on your local machine but want to interact with an existing one, then:
 
 * `git clone git@github:Username/repository_name.git`

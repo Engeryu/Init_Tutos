@@ -84,7 +84,7 @@ Your token is now linked to your local machine! Now, check if any SSH keys alrea
 ### ✅ All Set!
 
 Well done! Your local and remote environments are now fully connected and compatible.
-You can read [🛠️ GitHub CLI Repository Initialization](./github_repo_init.md) to learn how to list, create, and delete a repository!
+You can read [🛠️ GitHub CLI Repository Initialization](./02-Github_Repo_Init.md) to learn how to list, create, and delete a repository!
 
 **📚 PS:** If you want to deepen your knowledge of Git and GitHub configuration, here are the links to the [Git Documentation](https://git-scm.com/docs), the [GitHub-CLI Documentation](https://cli.github.com/manual/), and the [GitHub Documentation](https://docs.github.com/en).
 

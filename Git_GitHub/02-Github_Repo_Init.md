@@ -40,7 +40,7 @@ git push -u origin main
 ## ✅ All Set!
 
 You just created your first repository without opening GitHub.com—well done!
-You can read the [GitHub CLI Repository Management](./github_repo_managment.md) to learn how to manage your repositories directly from your local machine!
+You can read the [GitHub CLI Repository Management](./03-Github_Repo_Managment.md) to learn how to manage your repositories directly from your local machine!
 
 **📚 PS:** If you want to deepen your knowledge of Git and GitHub configuration, here are the links to the [Git Documentation](https://git-scm.com/docs), the [GitHub-CLI Documentation](https://cli.github.com/manual/), and the [GitHub Documentation](https://docs.github.com/en).
 

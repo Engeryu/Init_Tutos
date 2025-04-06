@@ -16,9 +16,9 @@ Whether you're setting up your environment, managing GitHub repositories, learni
 
 ### 🔧 [Git &amp; GitHub](https://github.com/Engeryu/Init_Tutos/tree/main/Git_GitHub)
 
-- [Git &amp; GitHub Initialization Guide](./Git_GitHub/github_git_init.md)
-- [GitHub CLI Repository Management](./Git_GitHub/github_repo_init.md)
-- [Git Commands &amp; Workflow Basics](./Git_GitHub/github_repo_managment.md)
+- [Git &amp; GitHub Initialization Guide](./Git_GitHub/01-Github_Git_Init.md)
+- [GitHub CLI Repository Management](./Git_GitHub/02-Github_Repo_Init.md)
+- [Git Commands &amp; Workflow Basics](./Git_GitHub/03-Github_Repo_Managment.md)
 
 ### 🐍 Python & Conda
 
