@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 # 🧰 Git & GitHub Initialization Guide
 
 ## ⚙️ Prerequisites
@@ -91,6 +92,8 @@ You can read [🛠️ GitHub CLI Repository Initialization](./02-Github_Repo_Ini
 
 🚀 Feel free to check other [guides](../README.md) to learn more technos!
 =======
+=======
+>>>>>>> Stashed changes
 # 🧰 Git & GitHub Initialization Guide
 
 ## ⚙️ Prerequisites
@@ -182,4 +185,7 @@ You can read [🛠️ GitHub CLI Repository Initialization](./02-Github_Repo_Ini
 **📚 PS:** If you want to deepen your knowledge of Git and GitHub configuration, here are the links to the [Git Documentation](https://git-scm.com/docs), the [GitHub-CLI Documentation](https://cli.github.com/manual/), and the [GitHub Documentation](https://docs.github.com/en).
 
 🚀 Feel free to check other [guides](../README.md) to learn more technos!
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

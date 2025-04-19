@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 # 🛠️ GitHub CLI Repository Initialization
 
 If you don't know what `gh` is or can't execute it, check [🧰Git &amp; GitHub Initialization Guide](./github_git_init.md)!
@@ -80,6 +81,8 @@ You can read the [GitHub CLI Repository Management](./03-Github_Repo_Managment.m
 
 🚀 Feel free to check other [guides](../README.md) to learn more technos!
 =======
+=======
+>>>>>>> Stashed changes
 # 🛠️ GitHub CLI Repository Initialization
 
 If you don't know what `gh` is or can't execute it, check [🧰Git &amp; GitHub Initialization Guide](./github_git_init.md)!
@@ -159,4 +162,7 @@ You can read the [GitHub CLI Repository Management](./03-Github_Repo_Managment.m
 **📚 PS:** If you want to deepen your knowledge of Git and GitHub configuration, here are the links to the [Git Documentation](https://git-scm.com/docs), the [GitHub-CLI Documentation](https://cli.github.com/manual/), and the [GitHub Documentation](https://docs.github.com/en).
 
 🚀 Feel free to check other [guides](../README.md) to learn more technos!
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
