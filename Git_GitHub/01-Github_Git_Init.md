@@ -24,7 +24,7 @@
 * Open [Personal Access Tokens (Classic)](https://github.com/settings/tokens), click on "Generate new token", and choose the classic option. Then:
 
   * Enter a name in the `note` field, e.g., "CLI Management"
-  * Select (at least): `repo`, `admin:public_key`, `user`, `delete_repo`, `admin:ssh_signing_key`
+  * Select/check (at least): `repo`, `admin:public_key`, `user`, `delete_repo`, `admin:ssh_signing_key`, `read:org`, `workflow`
   * Click on "Generate token"
   * Copy and save the token somewhere secure (a secure note or encrypted storage is recommended, but plain Notepad can work too)
 * Next, add your new token to `gh`:

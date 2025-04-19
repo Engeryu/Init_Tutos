@@ -24,6 +24,7 @@ If you don't know what `gh` is or can't execute it, check [🧰Git &amp; GitHub 
 git init -b main
 gh repo create repository_name --visibility # Don't need to do that if you did the last step `Repository Creation`
 git remote add origin git@github.com:Username/repo_name.git
+git pull # Needed if you created your repository from Web
 git add .
 git commit -m "Your comments"
 git push -u origin main
