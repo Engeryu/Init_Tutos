@@ -357,7 +357,7 @@ X_train, X_test, y_train, y_test = tts(X, y, train_size=0.8, random_state=1, shu
 
 🎉 Félicitations pour avoir suivi ce guide de Data Science de bout en bout !  
 Vous êtes maintenant prêt(e) à passer à l'étape suivante et publier votre projet.  
-Rendez-vous sur [Git & GitHub Environment](01-Github_Git_Init.md) pour apprendre à importer votre travail sur GitHub et le rendre visible.  
+Rendez-vous sur [Git & GitHub Environment](../Git_GitHub/01-Github_Git_Init.md) pour apprendre à importer votre travail sur GitHub et le rendre visible.  
 
 
 _Edited: 2025-04-22_
