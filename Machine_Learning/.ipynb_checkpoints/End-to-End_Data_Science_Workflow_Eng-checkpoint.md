@@ -341,6 +341,6 @@ X_train, X_test, y_train, y_test = tts(X, y, train_size=0.8, random_state=1, shu
 
 🎉 Congratulations on completing this end-to-end data science guide!  
 You're now ready to take the next step and publish your project.  
-Head over to the [Git & GitHub Environment](./../Git_GitHub/01-Github_Git_Init.md) to learn how to upload your work on GitHub and make it shareable.  
+Head over to the [Git & GitHub Environment](https://github.com/Engeryu/Init_Tutos/blob/main/Git_GitHub/01-Github_Git_Init.md) to learn how to upload your work on GitHub and make it shareable.  
 
 _Edited: 2025-04-22_
