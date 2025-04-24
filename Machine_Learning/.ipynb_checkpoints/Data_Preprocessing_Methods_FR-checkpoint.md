@@ -2,6 +2,8 @@
 **Auteur:** Gaspard-Fauvelle Angel  
 **License:** [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)  
 
+Here is the english version of the document [Data Preprocessing Methods](./Data_Preprocessing_Methods_FR.md)
+
 ## Table des matières
 - [Ingénierie des Caractéristiques](#Ingénierie-des-Caractéristiques)
   - [Mise à l’échelle, Normalisation et Standardisation](#Mise-à-léchelle-Normalisation-et-Standardisation)

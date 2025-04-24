@@ -2,6 +2,8 @@
 **Auteur:** Gaspard-Fauvelle Angel  
 **License:** [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)  
 
+Here is the english version of the document [NumPy & Pandas CheatSheet](/.NumPy_Pandas_CheatSheet_Eng.ipynb)
+
 ## Table des matières
 - [Méthodes Pandas](#Méthodes-Pandas)
   - [Inspection des données](#Inspection-des-données)

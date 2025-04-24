@@ -2,6 +2,8 @@
 **Author:** Gaspard-Fauvelle Angel  
 **License:** [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)  
 
+Voici la version française du document [Python & Pandas CheatSheet](./Python_Pandas_CheatSheet_FR.md)
+
 ---
 
 ## Table of Contents

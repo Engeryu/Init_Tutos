@@ -2,7 +2,8 @@
 **Auteur :** Gaspard-Fauvelle Angel
 **Licence :** [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)
 
-Here is the english version of the document [End-to-End Data Science Workflow](End-to-End_Data_Science_Workflow_Eng.ipynb)
+Here is the english version of the document [End-to-End Data Science Workflow](/.End-to-End_Data_Science_Workflow_Eng.ipynb)
+
 Ce document est le dernier d'une série :
 - [SQL_CheatSheet_FR.ipynb](SQL_CheatSheet_FR.ipynb)
 - [Python_Pandas_FR.ipynb](Python_Pandas_FR.ipynb)

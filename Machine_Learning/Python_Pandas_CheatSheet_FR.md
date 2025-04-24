@@ -2,6 +2,8 @@
 **Auteur:** Gaspard-Fauvelle Angel  
 **License:** [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)  
 
+Here is the english version of the document [Python & Pandas CheatSheet](./Python_Pandas_CheatSheet_Eng.md)
+
 ## Table des matières
 - [I. Introduction aux types de données et variables](#I.-Introduction-aux-types-de-données-et-variables)
     - [1.2. Types de données (Types scalaires)](#1.2.-Types-de-données-(Types-scalaires))
@@ -11,6 +13,8 @@
 - [Ⅳ. Introduction aux structures de données (Types de données abstraits)](#Ⅳ.-Introduction-aux-structures-de-données-(Types-de-données-abstraits))
     - [4.1. Séquences et structures de données de collection (Type de données vectorielles / bidimensionnelles)](#4.1.-Séquences-et-structures-de-données-de-collection-(Types-de-données-vectorielles-/-bidimensionnelles))
     - [4.2. Différence entre la built-in `list[]` de Python et le built-in `array([])` de NumPy](#4.2.-Différence-entre-la-built-in-list[]-de-Python-et-le-built-in-array([])-de-NumPy)
+
+
 
 ---
 
