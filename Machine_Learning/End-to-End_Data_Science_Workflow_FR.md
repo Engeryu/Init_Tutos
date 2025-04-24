@@ -37,9 +37,11 @@ Pourquoi avez-vous choisi ce dataset ? Quels sont les parties prenantes ? Quels 
 
 ---
 
-## 🗂️ II. Configuration de l'Environnement
-### 2.1. Imports
-#### 2.1.1. Bibliothèques
+## 🗂️ II. Configuration de l'Environnement  
+
+### 2.1. Imports  
+#### 2.1.1. Bibliothèques  
+
 ```python
 # Importer les bibliothèques nécessaires
 import pandas as pd
@@ -56,7 +58,8 @@ from datetime import date, datetime...
 # Importer les bibliothèques de support
 ```
 
-2.1.2. Chargement du Dataset
+#### 2.1.2. Chargement du Dataset
+```python
 # Charger le dataset dans un DataFrame Pandas
 df = pd.read_csv('votre_dataset.csv') # Pour lire un fichier CSV
 
@@ -103,6 +106,7 @@ df_fixed_width = pd.read_fwf('votre_fichier.txt', widths=column_widths) # Pour l
 
 # Lire des données depuis le presse-papiers
 df_clipboard = pd.read_clipboard() # Pour lire des données depuis le presse-papiers
+````
 
 ### 👁️ 2.2. Exploration Initiale - Aperçu de la Structure de Base du Dataset
 #### 2.2.1. Inspecter les dimensions et les types de données (Dictionnaire des variables avec .info(), et diagnostic approfondi de memory_usage)
