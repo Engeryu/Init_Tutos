@@ -58,6 +58,6 @@ Here is the english version of the document [Data Preprocessing Methods](./Data_
 
 ---
 
-**Vous pouvez vous rediriger vers la feuille finale sur [End-To-End Data Science Workflow](End-to-End_Data_Science_Workflow_FR.ipynb)**
+**Vous pouvez vous rediriger vers la feuille finale sur [End-To-End Data Science Workflow](./End-to-End_Data_Science_Workflow_FR.md)**
 
 _Edité: 22/04/2025_

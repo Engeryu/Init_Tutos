@@ -4,10 +4,10 @@
 
 Voici la version française du document [End-to-End Data Science Workflow](./End-to-End_Data_Science_Workflow_FR.ipynb)  
 This document is the last of a series:
-- [SQL_CheatSheet_Eng.ipynb](SQL_CheatSheet_Eng.ipynb)
-- [Python_Pandas_Eng.ipynb](Python_Pandas_Eng.ipynb)
-- [Numpy_Pandas_Eng](Numpy_Pandas_Eng.ipynb)
-- [Data_Preprocessing_Methods_Eng.ipynb](Data_Preprocessing_Methods_Eng.ipynb)
+- [SQL_CheatSheet_Eng.ipynb](./SQL_CheatSheet_Eng.ipynb)
+- [Python_Pandas_Eng.ipynb](./Python_Pandas_Eng.ipynb)
+- [Numpy_Pandas_Eng](./Numpy_Pandas_Eng.ipynb)
+- [Data_Preprocessing_Methods_Eng.ipynb](./Data_Preprocessing_Methods_Eng.ipynb)
 
 # 🧠 Dynamic Table of Contents
 1. [🧭 I. Subject Introduction](#🧭-I.-Subject-Introduction)  
@@ -338,5 +338,9 @@ X_train, X_test, y_train, y_test = tts(X, y, train_size=0.8, random_state=1, shu
 - Ensure scalability, maintainability, and data security in dashboard deployment.
 
 ---
+
+🎉 Congratulations on completing this end-to-end data science guide!  
+You're now ready to take the next step and publish your project.  
+Head over to the [Git & GitHub Environment](01-Github_Git_Init.md) to learn how to upload your work on GitHub and make it shareable.  
 
 _Edited: 2025-04-22_

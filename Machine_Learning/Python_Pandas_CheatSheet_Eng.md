@@ -161,6 +161,6 @@ There are other things we can store as variables, vector/uni-dimensional variabl
 
 ---
 
-**You can now redirect to [NumPy/Pandas](NumPy_Pandas_Eng.ipynb) CheatSheet**
+**You can now redirect to [NumPy/Pandas](./NumPy_Pandas_Eng.md) CheatSheet**
 
 _Edited: 2025/04/22_

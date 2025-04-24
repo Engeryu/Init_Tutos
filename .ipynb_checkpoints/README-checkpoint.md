@@ -25,7 +25,7 @@ Whether you're setting up your environment, managing GitHub repositories, learni
 - [Miniconda Installation &amp; Python Environment Setup](./python_conda_setup.md)
 - [Managing Python Packages](./python_packages.md)
 
-### Data Science & Machine Learning
+### [🧠🤖 Data Science & Machine Learning](https://github.com/Engeryu/Init_Tutos/tree/main/Machine_Learning)
 - [Python Pandas CheatSheet](./Machine_Learning/Python_Pandas_CheatSheet_Eng.md)
 - [NumPy Pandas CheatSheet](./Machine_Learning/NumPy_Pandas_CheatSheet_Eng.md)
 - [Data Preprocessing Methods Eng](./Machine_Learning/Data_Preprocessing_Methods_Eng.md)

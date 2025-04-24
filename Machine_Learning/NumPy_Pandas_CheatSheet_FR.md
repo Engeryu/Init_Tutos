@@ -181,6 +181,6 @@ Here is the english version of the document [NumPy & Pandas CheatSheet](/.NumPy_
 
 ---
 
-**Vous pouvez vous rediriger vers le CheatSheet [Méthodes de data Preprocessing](Data_Preprocessing_Methods_FR.ipynb)**
+**Vous pouvez vous rediriger vers le CheatSheet [Méthodes de data Preprocessing](./Data_Preprocessing_Methods_FR.md)**
 
 _Edité: 22/04/2025_

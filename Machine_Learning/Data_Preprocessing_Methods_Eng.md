@@ -70,6 +70,6 @@ Voici la version française du document [Data Preprocessing Methods](./Data_Prep
 
 ---
 
-**You can redirect to the final sheet about [End-To-End Data Science Workflow](End-to-End_Data_Science_Workflow_Eng.ipynb)**
+**You can redirect to the final sheet about [End-To-End Data Science Workflow](./End-to-End_Data_Science_Workflow_Eng.md)**
 
 _Edited: 2025/04/22_

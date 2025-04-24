@@ -2,12 +2,13 @@
 **Auteur :** Gaspard-Fauvelle Angel
 **Licence :** [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)
 
-Here is the english version of the document [End-to-End Data Science Workflow](/.End-to-End_Data_Science_Workflow_Eng.ipynb)
+Here is the english version of the document [End-to-End Data Science Workflow](/.End-to-End_Data_Science_Workflow_Eng.md)
+
 Ce document est le dernier d'une série :
-- [SQL_CheatSheet_FR.ipynb](SQL_CheatSheet_FR.ipynb)
-- [Python_Pandas_FR.ipynb](Python_Pandas_FR.ipynb)
-- [Numpy_Pandas_FR](Numpy_Pandas_FR.ipynb)
-- [Data_Preprocessing_Methods_FR.ipynb](Data_Preprocessing_Methods_FR.ipynb)
+- [SQL_CheatSheet_FR.ipynb](SQL_CheatSheet_FR.md)
+- [Python_Pandas_FR.ipynb](Python_Pandas_FR.md)
+- [Numpy_Pandas_FR](Numpy_Pandas_FR.md)
+- [Data_Preprocessing_Methods_FR.ipynb](Data_Preprocessing_Methods_FR.md)
 
 # 🧠 Table des Matières Dynamique
 1. [🧭 I. Introduction au Sujet](#🧭-I.-Introduction-au-Sujet)
@@ -353,5 +354,10 @@ X_train, X_test, y_train, y_test = tts(X, y, train_size=0.8, random_state=1, shu
 - Assurer l'évolutivité, la maintenabilité et la sécurité des données dans le déploiement des tableaux de bord.
 
 ---
+
+🎉 Félicitations pour avoir suivi ce guide de Data Science de bout en bout !  
+Vous êtes maintenant prêt(e) à passer à l'étape suivante et publier votre projet.  
+Rendez-vous sur [Git & GitHub Environment](01-Github_Git_Init.md) pour apprendre à importer votre travail sur GitHub et le rendre visible.  
+
 
 _Edited: 2025-04-22_
