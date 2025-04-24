@@ -164,6 +164,6 @@ On peut également stocker d'autres types d'objets en tant que variables, comme 
 
 ---
 
-**Vous pouvez maintenant vous rediriger vers la CheatSheet de [NumPy/Pandas](Numpy_Pandas_FR.ipynb)**
+**Vous pouvez maintenant vous rediriger vers la CheatSheet de [NumPy/Pandas](NumPy_Pandas_FR.ipynb)**
 
 _Edité: 22/04/2025_
