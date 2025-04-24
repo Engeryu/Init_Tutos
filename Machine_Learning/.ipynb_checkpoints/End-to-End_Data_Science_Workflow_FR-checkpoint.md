@@ -6,8 +6,8 @@ Here is the english version of the document [End-to-End Data Science Workflow](/
 
 Ce document est le dernier d'une série :
 - [SQL_CheatSheet_FR.ipynb](SQL_CheatSheet_FR.md)
-- [Python_Pandas_FR.ipynb](Python_Pandas_FR.md)
-- [Numpy_Pandas_FR](Numpy_Pandas_FR.md)
+- [Python_Pandas_FR.ipynb](Python_Pandas_CheatSheet_FR.md)
+- [Numpy_Pandas_FR](NumPy_Pandas_CheatSheet_FR.md)
 - [Data_Preprocessing_Methods_FR.ipynb](Data_Preprocessing_Methods_FR.md)
 
 # 🧠 Table des Matières Dynamique
